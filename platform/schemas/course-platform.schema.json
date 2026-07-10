@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AI Native Course Platform Schema",
+  "type": "object",
+  "required": ["courseId", "modules", "offers", "deckManifest"],
+  "properties": {
+    "courseId": {"type": "string"},
+    "modules": {"type": "array", "items": {"type": "object"}},
+    "offers": {"type": "array", "items": {"type": "object"}},
+    "deckManifest": {"type": "string"},
+    "leadCapture": {
+      "type": "object",
+      "properties": {
+        "fields": {"type": "array", "items": {"type": "string"}},
+        "crmDestination": {"type": "string"},
+        "emailSequence": {"type": "string"}
+      }
+    }
+  }
+}
