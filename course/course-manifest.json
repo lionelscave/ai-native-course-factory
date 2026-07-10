@@ -1,0 +1,22 @@
+{
+  "courseId": "ai-native-transformation-os",
+  "title": "AI-Native Transformation OS",
+  "subtitle": "From AI tools to operating systems, economics, and control planes",
+  "audience": ["executives", "transformation leaders", "AI builders", "operators", "consultants"],
+  "outcomes": [
+    "Diagnose AI-native maturity",
+    "Map workflows into agentic operating models",
+    "Understand AI-native economics and cost/control levers",
+    "Design a control plane for governance, memory, tools, agents, and observability",
+    "Create a 90-day AI-native transformation roadmap"
+  ],
+  "modules": [
+    "module-01-ai-native-mindset",
+    "module-02-ai-native-economics",
+    "module-03-control-plane-architecture",
+    "module-04-agent-rooms-memory-workflows",
+    "module-05-governance-risk-security",
+    "module-06-90-day-transformation-sprint"
+  ],
+  "offerTiers": ["lead-magnet", "self-paced", "live-cohort", "corporate-workshop", "done-with-you-sprint"]
+}
