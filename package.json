@@ -1,0 +1,11 @@
+{
+  "name": "ai-native-course-factory",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validate": "node tools/validate-course-factory.mjs",
+    "build:manifest": "node tools/build-course-index.mjs",
+    "test": "npm run build:manifest && npm run validate"
+  }
+}
