@@ -1,0 +1,31 @@
+{
+  "provider": "beautiful.ai",
+  "integrationMode": "deck-url-or-export",
+  "notes": "Use share/embed URLs when available. If API access is unavailable, maintain deckUrl manually and export PDF/PPT for archive.",
+  "decks": [
+    {
+      "deckKey": "module-01-ai-native-mindset",
+      "title": "AI-Native Mindset: From Tools to Operating Systems",
+      "deckUrl": "TODO_BEautifulAI_SHARE_URL",
+      "status": "planned",
+      "moduleId": "module-01-ai-native-mindset",
+      "slides": ["Title", "Why tools are not transformation", "AI-native operating model", "Control plane overview", "Exercise"]
+    },
+    {
+      "deckKey": "module-02-ai-native-economics",
+      "title": "AI-Native Economics",
+      "deckUrl": "TODO_BEautifulAI_SHARE_URL",
+      "status": "planned",
+      "moduleId": "module-02-ai-native-economics",
+      "slides": ["Title", "Marginal cost of intelligence", "Marginal cost of action", "Workflow compression", "ROI scorecard"]
+    },
+    {
+      "deckKey": "module-03-control-plane-architecture",
+      "title": "Control Plane Architecture",
+      "deckUrl": "TODO_BEautifulAI_SHARE_URL",
+      "status": "planned",
+      "moduleId": "module-03-control-plane-architecture",
+      "slides": ["Title", "Control plane vs app layer", "Identity/tools/memory", "Governance loop", "Blueprint exercise"]
+    }
+  ]
+}
