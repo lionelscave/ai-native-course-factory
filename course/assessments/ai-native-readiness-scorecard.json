@@ -1,0 +1,13 @@
+{
+  "assessmentId": "ai-native-readiness-scorecard",
+  "dimensions": [
+    "workflow_visibility",
+    "memory_and_context",
+    "agent_operations",
+    "governance_velocity",
+    "economic_controls",
+    "control_plane_maturity"
+  ],
+  "scale": {"min": 1, "max": 5},
+  "outputs": ["Foundation", "Acceleration", "Control Plane Ready"]
+}
