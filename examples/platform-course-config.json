@@ -1,0 +1,6 @@
+{
+  "courseManifest": "course/course-manifest.json",
+  "deckManifest": "beautiful-ai/deck-manifest.json",
+  "pricingPlan": "revenue/pricing-plan.md",
+  "landingCopy": "marketing/landing-page-copy.md"
+}
